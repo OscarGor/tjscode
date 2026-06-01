@@ -1,4 +1,3 @@
-```markdown
 # TJSCODE 跑馬地場地規則庫 (Happy Valley Track Rules)
 
 > 版本：Ver.2.2「沙田經驗整合版」  

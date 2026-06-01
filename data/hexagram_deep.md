@@ -1,4 +1,3 @@
-```markdown
 # TJSCODE 六十四卦實戰深化筆記 (Hexagram Deep Notes)
 
 > 版本：Ver.2.2「五場實戰整合版」  

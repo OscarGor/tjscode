@@ -1,4 +1,3 @@
-以下為 TJSCODE 補丁庫（Patches.md）的完整 Markdown 代碼，版本 Ver.2.7，補丁總數 255 條（DP-001 至 DP-255）。內容已整合原有 Ver.2.5 的 122 條補丁及後續新增的 133 條補丁，並依最新分類索引編排。
 
 ```markdown
 # TJSCODE 補丁庫 (Patches)
